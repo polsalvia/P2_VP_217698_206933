@@ -23,7 +23,7 @@ addpath data
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % MISSING CODE HERE
 % Loading frames
-% image_template = double(imread('imagen0000.png'));
+image_template = double(imread('imagen0000.png'));
  
 % Fixing a threshold
  th=0.2;
